@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//mary94code.github.io/trial-fitness/static/css/main.1458ab32.css",
+    "main.js": "//mary94code.github.io/trial-fitness/static/js/main.06e57f2a.js",
+    "index.html": "//mary94code.github.io/trial-fitness/index.html",
+    "main.1458ab32.css.map": "//mary94code.github.io/trial-fitness/static/css/main.1458ab32.css.map",
+    "main.06e57f2a.js.map": "//mary94code.github.io/trial-fitness/static/js/main.06e57f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1458ab32.css",
+    "static/js/main.06e57f2a.js"
+  ]
+}
