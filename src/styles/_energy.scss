@@ -1,0 +1,47 @@
+.energy_wrapper{
+    padding: 20px;
+    margin: 20px;
+    color: $main_text_colour;
+    @include display-flex;
+    flex-direction: column;
+    align-items: center;
+    h2{
+        margin-bottom: 10px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    p{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .stress_paragraph{
+        background-color: $gray_colour;
+        margin-top: 20px;
+        width: 80%;
+        padding: 10px;
+        border-radius: 10px;
+    }
+}
+.stress_container{
+    margin-top: 20px;
+    .mid_container{
+        @include display-flex;
+    }
+    h4{
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    .stress_box{
+        display: inline;
+        width: 250px;
+        background-color: $lightblue_colour;
+        padding: 20px;
+        margin: 15px;
+        border-radius: 20px;
+        color: $main_colour;
+    }
+    li{
+        margin-bottom: 15px;
+    }
+}
